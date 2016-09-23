@@ -1,0 +1,2 @@
+The code is running now. The working time is "1 day". So, i will send output file when it is finished.
+I used BigInteger class. Because; int,long,float,double is very small for keeping total distance.

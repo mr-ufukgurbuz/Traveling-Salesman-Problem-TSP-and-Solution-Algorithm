@@ -1,0 +1,2 @@
+X-Y coordinates are very big. So, our code is working true. But, there is a little problem for calculation total distance.
+You sad that "Okey. You can try input which has same size and smaller than x-y coordinates"
